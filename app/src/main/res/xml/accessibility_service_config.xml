@@ -4,4 +4,4 @@
     android:notificationTimeout="500"
     android:canRetrieveWindowContent="true"
     android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows"
-    android:description="Tìm số điện thoại trong phần chữ mà ứng dụng khác cho phép Trợ năng đọc được và tra tên trong danh bạ." />
+    android:description="@string/accessibility_service_description"
